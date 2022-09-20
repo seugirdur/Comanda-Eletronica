@@ -121,6 +121,7 @@ public class Login extends AppCompatActivity {
         menu.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TASK | Intent.FLAG_ACTIVITY_NO_ANIMATION);
         startActivity(menu);
     }
+    //TESTE
 
     public void redirecionaUsuario(int idUsuario, String cargoUsuario, boolean logado){
 
